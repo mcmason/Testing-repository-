@@ -1,0 +1,12 @@
+---
+title: "Seminar 2a"
+author: Madeline Mason
+output: github_document
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+---
+# Header 1
+
+* Fruits
+    * apples
+    * bananas
+    * grapes
