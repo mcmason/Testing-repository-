@@ -1,0 +1,12 @@
+---
+title: "Seminar 2a html"
+output: html_document
+author: Madeline Mason
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+---
+# Header 1
+
+* Fruits
+    * apples
+    * bananas
+    * grapessss
